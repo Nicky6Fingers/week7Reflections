@@ -36,3 +36,7 @@ And is denoted by &&
 Or is denoted by ||
 Not is written by a "!" similar to the != symbol
 Ternary using three values it is shown by a ? and a colon
+
+### Own Reflections
+
+Most of this stuff i got a pretty good follow along of whats going on, the one thing that i guess threw me off was having stings as const, the way it had always been explained to me is you would only want to have a const that doesn't really change much (like a tax rate) 
