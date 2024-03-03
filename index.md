@@ -2,14 +2,16 @@
 
 ## Re-read of Same Code
 
-It is interesting that the ";" are not really needed for the code, one of nuances of javascript and also once again all of these extensions make life much easier. 
+It is interesting that the ";" are not really needed for the code, one of nuances of javascript and also once again all of these extensions make life much easier.
 The return statement exits out of the block of code and any thing after it in that block isn't excecuted.
 const - is keyword used to store information you want to keep saved in memory and you can name this aswell
 
 ## Re-Read the Eloquent JavaScript Example Codes
+
 It all seems similar to while loops in my other programming classes, however the keyword "let" is new and intresting
 
 ## Eloquent JavaScript Reading
+
 "The shiny or dull spot of a cd" intersting i didnt know it worked like this i thought it was similar to the old records where there are little "scratches" made into the disk
 
 ### Arithmatic info
@@ -39,4 +41,4 @@ Ternary using three values it is shown by a ? and a colon
 
 ### Own Reflections
 
-Most of this stuff i got a pretty good follow along of whats going on, the one thing that i guess threw me off was having stings as const, the way it had always been explained to me is you would only want to have a const that doesn't really change much (like a tax rate) 
+Most of this stuff i got a pretty good follow along of whats going on, the one thing that i guess threw me off was having stings as const, the way it had always been explained to me is you would only want to have a const that doesn't really change much (like a tax rate)
