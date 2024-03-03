@@ -17,7 +17,8 @@ It all seems similar to while loops in my other programming classes, however the
 ### Arithmetic info
 
 -**Numbers**- values are whole numeric values written in javascript like "15"
--**fractional numbers**- written by using a dot "9.25"
+**fractional numbers**
+: definition written by using a dot "9.25"
 -**Scientific notation** = written as 2.998e8 with 8 being the exponent
 -**Maths**- Maths is done using operators such as "+" and "*" and follows the order of operations with % representing the remainder
 -**Special Numbers**- Infinity and -Infiinity as well as NaN (Not A Number) an example of this is dividing 0 by 0
